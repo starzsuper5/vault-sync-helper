@@ -1,9 +1,0 @@
-{
-  "id": "vault-sync-helper",
-  "name": "Vault Sync Helper",
-  "version": "1.0.1",
-  "minAppVersion": "1.8.0",
-  "description": "Sync selected Markdown notes with a paired remote notes service.",
-  "author": "Vault Tools",
-  "isDesktopOnly": false
-}
